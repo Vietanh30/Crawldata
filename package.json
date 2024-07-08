@@ -1,0 +1,15 @@
+{
+  "name": "crawldata",
+  "version": "21.7.2",
+  "description": "",
+  "main": "plant.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonlint": "^1.6.3",
+    "puppeteer": "^22.12.1"
+  }
+}
